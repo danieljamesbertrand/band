@@ -1,0 +1,102 @@
+bitJsonp_1506435336437([
+    {
+    "id": "15108152",
+    "artist_id": "13006502",
+    "url": "http://www.bandsintown.com/e/19270408?app_id=js_theradbrotherscalgary-rocknrollband.rhcloud.com&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2017-10-07T20:30:00",
+    "venue": {
+      "name": "The RAD Brothers at The Texas Gate",
+      "latitude": "51.19051",
+      "longitude": "-114.46993",
+      "city": "Cochrane",
+      "region": "AB",
+      "country": "Canada"
+    },
+    "offers": [
+                ],
+    "lineup": [
+                    "The RAD Brothers"
+                    ]
+  },    {
+    "id": "15487746",
+    "artist_id": "13006502",
+    "url": "http://www.bandsintown.com/e/19673860?app_id=js_theradbrotherscalgary-rocknrollband.rhcloud.com&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2017-10-13T21:00:00",
+    "venue": {
+      "name": "The Spot",
+      "latitude": "51.0379749",
+      "longitude": "-113.9708999",
+      "city": "Calgary",
+      "region": "AB",
+      "country": "Canada"
+    },
+    "offers": [
+                ],
+    "lineup": [
+                    "The RAD Brothers"
+        ,                    "The RAD Brothers"
+                    ]
+  },    {
+    "id": "14706731",
+    "artist_id": "13006502",
+    "url": "http://www.bandsintown.com/e/18680294?app_id=js_theradbrotherscalgary-rocknrollband.rhcloud.com&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2017-10-21T21:00:00",
+    "venue": {
+      "name": "The Bowness Pub",
+      "latitude": "51.08949",
+      "longitude": "-114.20141",
+      "city": "Calgary",
+      "region": "AB",
+      "country": "Canada"
+    },
+    "offers": [
+                ],
+    "lineup": [
+                    "The RAD Brothers"
+        ,                    "The RAD Brothers"
+                    ]
+  },    {
+    "id": "14676173",
+    "artist_id": "13006502",
+    "url": "http://www.bandsintown.com/e/18680301?app_id=js_theradbrotherscalgary-rocknrollband.rhcloud.com&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2017-11-17T21:00:00",
+    "venue": {
+      "name": "The Bowness Pub",
+      "latitude": "51.08949",
+      "longitude": "-114.20141",
+      "city": "Calgary",
+      "region": "AB",
+      "country": "Canada"
+    },
+    "offers": [
+                ],
+    "lineup": [
+                    "The RAD Brothers"
+        ,                    "The RAD Brothers"
+                    ]
+  },    {
+    "id": "14676179",
+    "artist_id": "13006502",
+    "url": "http://www.bandsintown.com/e/18680306?app_id=js_theradbrotherscalgary-rocknrollband.rhcloud.com&came_from=267",
+    "on_sale_datetime": "",
+    "datetime": "2017-12-09T21:00:00",
+    "venue": {
+      "name": "The Bowness Pub",
+      "latitude": "51.08949",
+      "longitude": "-114.20141",
+      "city": "Calgary",
+      "region": "AB",
+      "country": "Canada"
+    },
+    "offers": [
+                ],
+    "lineup": [
+                    "The RAD Brothers"
+        ,                    "The RAD Brothers"
+                    ]
+  }  ]
+)
