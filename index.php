@@ -163,58 +163,9 @@ iframe {height:100%;width:100%}
 .bit-widget .bit-clickable {
   color: #2F95DE;
 }</style></head>
+
 <body>
-<center></center><table>
-<tbody><tr><td class="header"><div><h1>The RAD Brothers Promo Page. Please wait for the video to load.</h1></div></td></tr>
-<tr><td class="content">
-<iframe src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/21761970_1716149448689963_5241352143453402315_n.png" frameborder="0" allowfullscreen=""></iframe>
-</td></tr>
-<tr><td>
-	<script charset="utf-8" src="./index_files/main.min.js"></script>
-	<div class="bit-widget-container"><div class="bit-widget bit-layout-row">
-  <div class="bit-event-lists">
-    <div class="bit-local-events-container"></div>
-    <div class="bit-nav-bar-container"><div class="bit-nav-bar">
-  <span class="bit-event-list-title bit-show-upcoming">Upcoming Dates</span>
-  
-  <span class="bit-event-list-title bit-show-past bit-clickable">Past Dates</span>
-  
-</div></div>
-    <div class="bit-events-container"><div class="bit-upcoming-events"><a class="bit-event" href="http://www.bandsintown.com/e/19270408?app_id=js_theradbrotherscalgary-rocknrollband.rhcloud.com&amp;came_from=242&amp;affil_code=js_theradbrotherscalgary-rocknrollband.rhcloud.com&amp;artist=The+RAD+Brothers" target="_blank">
-  <div class="bit-details">
-    <div class="bit-date">Oct 07</div>
-    <div class="bit-venue">The RAD Brothers at The Texas Gate</div>
-    <div class="bit-location">Cochrane, Canada</div>
-  </div>
-  <div class="bit-offers bit-button">More Info</div>
-</a><a class="bit-event" href="http://www.bandsintown.com/e/19673860?app_id=js_theradbrotherscalgary-rocknrollband.rhcloud.com&amp;came_from=242&amp;affil_code=js_theradbrotherscalgary-rocknrollband.rhcloud.com&amp;artist=The+RAD+Brothers" target="_blank">
-  <div class="bit-details">
-    <div class="bit-date">Oct 13</div>
-    <div class="bit-venue">The Spot</div>
-    <div class="bit-location">Calgary, Canada</div>
-  </div>
-  <div class="bit-offers bit-button">More Info</div>
-</a><a class="bit-event" href="http://www.bandsintown.com/e/18680294?app_id=js_theradbrotherscalgary-rocknrollband.rhcloud.com&amp;came_from=242&amp;affil_code=js_theradbrotherscalgary-rocknrollband.rhcloud.com&amp;artist=The+RAD+Brothers" target="_blank">
-  <div class="bit-details">
-    <div class="bit-date">Oct 21</div>
-    <div class="bit-venue">The Bowness Pub</div>
-    <div class="bit-location">Calgary, Canada</div>
-  </div>
-  <div class="bit-offers bit-button">More Info</div>
-</a><a class="bit-event" href="http://www.bandsintown.com/e/18680301?app_id=js_theradbrotherscalgary-rocknrollband.rhcloud.com&amp;came_from=242&amp;affil_code=js_theradbrotherscalgary-rocknrollband.rhcloud.com&amp;artist=The+RAD+Brothers" target="_blank">
-  <div class="bit-details">
-    <div class="bit-date">Nov 17</div>
-    <div class="bit-venue">The Bowness Pub</div>
-    <div class="bit-location">Calgary, Canada</div>
-  </div>
-  <div class="bit-offers bit-button">More Info</div>
-</a></div><div class="bit-upcoming-events-show-all-button">Show All Dates</div><iframe src="./index_files/widget_iframe.html" class="google-pixel-iframe"></iframe></div>
-  </div>
-</div></div>
-</td>
-</tr>
+<script charset="utf-8" src="https://widget.bandsintown.com/main.min.js"></script><a class="bit-widget-initializer" data-artist-name="the rad brothers" data-display-local-dates="false" data-display-past-dates="true" data-auto-style="false" data-text-color="#000000" data-link-color="#2F95DE" data-popup-background-color="#FFFFFF" data-background-color="#FFFFFF" data-display-limit="15" data-link-text-color="#FFFFFF"></a>
 
-</tbody></table>
-
-
-<script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"The RAD Brothers @ The RAD Brothers at The Texas Gate","startDate":"2017-10-07T20:30:00","url":"http://www.bandsintown.com/e/19270408?app_id=js_theradbrotherscalgary-rocknrollband.rhcloud.com&came_from=242","location":{"@type":"Place","name":"The RAD Brothers at The Texas Gate","address":{"@type":"PostalAddress","addressCountry":"Canada","addressRegion":"","addressLocality":"Cochrane"},"geo":{"@type":"GeoCoordinates","latitude":"51.19051","longitude":"-114.46993"}},"offers":[],"performers":[{"@type":"MusicGroup","name":"The RAD Brothers"}]},{"@context":"http://schema.org","@type":"MusicEvent","name":"The RAD Brothers, The RAD Brothers @ The Spot","startDate":"2017-10-13T21:00:00","url":"http://www.bandsintown.com/e/19673860?app_id=js_theradbrotherscalgary-rocknrollband.rhcloud.com&came_from=242","location":{"@type":"Place","name":"The Spot","address":{"@type":"PostalAddress","addressCountry":"Canada","addressRegion":"","addressLocality":"Calgary"},"geo":{"@type":"GeoCoordinates","latitude":"51.0379749","longitude":"-113.9708999"}},"offers":[],"performers":[{"@type":"MusicGroup","name":"The RAD Brothers"},{"@type":"MusicGroup","name":"The RAD Brothers"}]},{"@context":"http://schema.org","@type":"MusicEvent","name":"The RAD Brothers, The RAD Brothers @ The Bowness Pub","startDate":"2017-10-21T21:00:00","url":"http://www.bandsintown.com/e/18680294?app_id=js_theradbrotherscalgary-rocknrollband.rhcloud.com&came_from=242","location":{"@type":"Place","name":"The Bowness Pub","address":{"@type":"PostalAddress","addressCountry":"Canada","addressRegion":"","addressLocality":"Calgary"},"geo":{"@type":"GeoCoordinates","latitude":"51.08949","longitude":"-114.20141"}},"offers":[],"performers":[{"@type":"MusicGroup","name":"The RAD Brothers"},{"@type":"MusicGroup","name":"The RAD Brothers"}]},{"@context":"http://schema.org","@type":"MusicEvent","name":"The RAD Brothers, The RAD Brothers @ The Bowness Pub","startDate":"2017-11-17T21:00:00","url":"http://www.bandsintown.com/e/18680301?app_id=js_theradbrotherscalgary-rocknrollband.rhcloud.com&came_from=242","location":{"@type":"Place","name":"The Bowness Pub","address":{"@type":"PostalAddress","addressCountry":"Canada","addressRegion":"","addressLocality":"Calgary"},"geo":{"@type":"GeoCoordinates","latitude":"51.08949","longitude":"-114.20141"}},"offers":[],"performers":[{"@type":"MusicGroup","name":"The RAD Brothers"},{"@type":"MusicGroup","name":"The RAD Brothers"}]},{"@context":"http://schema.org","@type":"MusicEvent","name":"The RAD Brothers, The RAD Brothers @ The Bowness Pub","startDate":"2017-12-09T21:00:00","url":"http://www.bandsintown.com/e/18680306?app_id=js_theradbrotherscalgary-rocknrollband.rhcloud.com&came_from=242","location":{"@type":"Place","name":"The Bowness Pub","address":{"@type":"PostalAddress","addressCountry":"Canada","addressRegion":"","addressLocality":"Calgary"},"geo":{"@type":"GeoCoordinates","latitude":"51.08949","longitude":"-114.20141"}},"offers":[],"performers":[{"@type":"MusicGroup","name":"The RAD Brothers"},{"@type":"MusicGroup","name":"The RAD Brothers"}]}]</script></body></html>
+	</body>
+</html>
