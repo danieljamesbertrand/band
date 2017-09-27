@@ -167,7 +167,7 @@ iframe {height:100%;width:100%}
 <center></center><table>
 <tbody><tr><td class="header"><div><h1>The RAD Brothers Promo Page. Please wait for the video to load.</h1></div></td></tr>
 <tr><td class="content">
-<iframe src="./index_files/promoRADBlank.png" frameborder="0" allowfullscreen=""></iframe>
+<iframe src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/21761970_1716149448689963_5241352143453402315_n.png" frameborder="0" allowfullscreen=""></iframe>
 </td></tr>
 <tr><td>
 	<script charset="utf-8" src="./index_files/main.min.js"></script>
