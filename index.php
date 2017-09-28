@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0055)http://theradbrotherscalgary-rocknrollband.rhcloud.com/ -->
+
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript" src="./index_files/events" async=""></script>
   
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
